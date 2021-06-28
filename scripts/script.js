@@ -32,3 +32,6 @@ const changeColor = (elem, int) => {
 		elem.style.color = "yellow";
 	}
 };
+
+
+changeColor(counter, 0)
